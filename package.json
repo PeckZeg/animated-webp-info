@@ -1,0 +1,22 @@
+{
+  "name": "animated-webp-info",
+  "version": "0.0.1",
+  "description": "Get Animated WebP Image Info",
+  "main": "index.js",
+  "author": "PeckZeg",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webp",
+    "animated webp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:PeckZeg/animated-webp-info.git"
+  },
+  "dependencies": {
+    "lodash": "^4.5.0"
+  }
+}
